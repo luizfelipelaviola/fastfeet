@@ -6,9 +6,9 @@
 
 <p align="center">Este projeto não é somente mais um entre os inúmeros, pois significa muito para mim, onde alcancei muitos objetivos significativos na minha carreira como desenvolvedor. Este projeto é um compilado de inúmeras ferramentas que a partir de agora irão compor meus projetos, onde espero impactar vidas e empresas com o poder da informatização.</p>
 
-<p align="center"><img alt="GoStack" title="GoStack" src=".github/gostack.png" width="300px" /></p>
+<p align="center"><img alt="GoStack" title="GoStack" src=".github/gostack.png" width="150px" /></p>
 
-<p align="center">"A arte de programar consiste em organizar e dominar a complexidade" - Edsger W. Dijkstra</p>
+<p align="center">"A arte de programar consiste em organizar e dominar a complexidade." - Edsger W. Dijkstra</p>
 
 <p align="center">
   <a href="#page_facing_up-contexto">Contexto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,11 +20,11 @@
 
 ## :page_facing_up: Contexto
 
-Este projeto constitui-se de uma aplicação completa, composta por backend, frontend e mobile para uma transportadora fictícia.</p>
+Este projeto constitui-se de uma aplicação completa, composta por backend, frontend e mobile para uma transportadora fictícia.
 
 As funcionalidades no frontend web desenvolvido em ReactJS são dedicadas a administradores da aplicação, onde podem realizar cadastro de entregadores, destinatários, encomendas, e realizar a conexão entre os três itens anteriores, acompanhando a encomenda desde sua criação até a entrega.
 
-As funcionalidades no mobile desenvolvido em React Native destinam-se ao entregador, onde este pode visualizar as encomendas a ele encarregadas e suas respectivas atribuições, como destinatário, datas e funcionalidades para retirada e registro da entrega. Um destaque para esta aplicação é o envio de imagem obtida através da câmera do aparelho, que poderá ser visualizada pelo administrador no frontend web.</p>
+As funcionalidades no mobile desenvolvido em React Native destinam-se ao entregador, onde este pode visualizar as encomendas a ele encarregadas e suas respectivas atribuições, como destinatário, datas e funcionalidades para retirada e registro da entrega. Um destaque para esta aplicação é o envio de imagem obtida através da câmera do aparelho, que poderá ser visualizada pelo administrador no frontend web.
 
 O backend é único tanto para o frontend web quanto para o mobile. Desenvolvido em NodeJS, realiza o controle de fluxo informacional, comunicação com os bancos de dados, envio de e-mails, upload de arquivos, dentre outras funcionalidades, utilizando modernas bibliotecas para este fim.
 
@@ -51,7 +51,7 @@ Este projeto foi criado durante o Bootcamp 10 da Rocketseat, orientado pelos seg
 - [Enunciado 03](https://github.com/Rocketseat/bootcamp-gostack-desafio-10/blob/master/README.md)
 - [Enunciado 04](https://github.com/Rocketseat/bootcamp-gostack-desafio-09/blob/master/README.md)
 
-## :microscope: Instação e Execução
+## :microscope: Instalação e Execução
 
 Faça um clone deste repositório.
 
@@ -61,7 +61,7 @@ Faça um clone deste repositório.
 - Execute o comando 'yarn' para instalar as dependências
 - Configure os bancos de dados PostgreSQL e Redis conforme sua preferência
 - Execute o comando 'cp .env.example .env', em seguida, preencha o arquivo '.env' para definição das variáveis ambiente
-- Execute o comando 'yarn sequelize db:migrate' para preparar o banco de dados PostgresSQL
+- Execute o comando 'yarn sequelize db:migrate' para preparar o banco de dados PostgreSQL
 - Execute o comando 'yarn sequelize db:seed:all' para criação do usuário admin
 - Execute o comando 'yarn dev' para iniciar o servidor em ambiente de desenvolvimento
 - Execute, em outra instância do terminal, o comando 'yarn queue' para iniciar o Bee-Queue
@@ -79,7 +79,7 @@ Faça um clone deste repositório.
 - Execute o comando 'yarn' para instalar as dependências
 - Execute o comando 'yarn android' para a compilação e inicialização da aplicação em seu emulador ou dispositivo físico
 
-**Observação:** esta aplicação foi desenvolvida e testada apenas em ambiente Android
+**Observação:** esta aplicação foi desenvolvida e testada apenas em ambiente Android.
 
 ## :bookmark: Agradecimentos
 
@@ -93,7 +93,7 @@ Ao meu amigo Ernesto Lavorini Jr. por ter acreditado em mim e sempre estar prese
 
 A Rocketseat e todos instrutores, em especial o Diego Fernandes, por todo apoio que me deu durante toda esta jornada
 
-Ao meu professor e mentor Nilton Freitas Jr. que me incentivou meu ingresso no curso de Sistemas de Informação e que me acompanha dia a dia nessa jornada de desenvolvimento
+Ao meu professor e mentor Nilton Freitas Jr. que incentivou meu ingresso no curso de Sistemas de Informação e que me acompanha dia a dia nessa jornada de desenvolvimento
 
 ---
 
