@@ -2,7 +2,7 @@
   <img alt="Fastfeet" title="Fastfeet" src=".github/logo.png" width="300px" />
 </h1>
 
-<p align="center">Este projeto é o fruto de longos 6 meses de estudos nas melhores tecnologias do mercado, onde fui incrivelmente instruído pela Rocketseat, para formação FullStack Developer. Foi um longo caminho até chegar aqui, com muitas dificuldades na estrada, onde venci e aprendi com todas elas.</p>
+<p align="center">Este projeto é o fruto de longas 6 semanas de estudos nas melhores tecnologias do mercado, onde fui incrivelmente instruído pela Rocketseat, para formação FullStack Developer. Foi um longo caminho até chegar aqui, com muitas dificuldades na estrada, onde venci e aprendi com todas elas.</p>
 
 <p align="center">Este projeto não é somente mais um entre os inúmeros, pois significa muito para mim, onde alcancei muitos objetivos significativos na minha carreira como desenvolvedor. Este projeto é um compilado de inúmeras ferramentas que a partir de agora irão compor meus projetos, onde espero impactar vidas e empresas com o poder da informatização.</p>
 
