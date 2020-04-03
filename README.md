@@ -8,7 +8,7 @@
 
 <p align="center"><img alt="GoStack" title="GoStack" src=".github/gostack.png" width="300px" /></p>
 
-<p align="center">*"A arte de programar consiste em organizar e dominar a complexidade"* - Edsger W. Dijkstra</p>
+<p align="center">"A arte de programar consiste em organizar e dominar a complexidade" - Edsger W. Dijkstra</p>
 
 <p align="center">
   <a href="#">Contexto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
