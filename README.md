@@ -6,7 +6,7 @@
 
 <p align="center">Este projeto não é somente mais um entre os inúmeros, pois significa muito para mim, onde alcancei muitos objetivos significativos na minha carreira como desenvolvedor. Este projeto é um compilado de inúmeras ferramentas que a partir de agora irão compor meus projetos, onde espero impactar vidas e empresas com o poder da informatização.</p>
 
-<p align="center"><img alt="GoStack" title="GoStack" src=".github/gostack.svg" width="300px" /></p>
+<p align="center"><img alt="GoStack" title="GoStack" src=".github/gostack.png" width="300px" /></p>
 
 <p align="center">*"A arte de programar consiste em organizar e dominar a complexidade"* - Edsger W. Dijkstra
 
@@ -78,19 +78,25 @@ Faça um clone deste repositório.
 - A partir da raiz do projeto, acesse o diretório mobile através do comando no terminal 'cd mobile'
 - Execute o comando 'yarn' para instalar as dependências
 - Execute o comando 'yarn android' para a compilação e inicialização da aplicação em seu emulador ou dispositivo físico
+
 **Observação:** esta aplicação foi desenvolvida e testada apenas em ambiente Android
 
 ## :bookmark: Agradecimentos
 
 Agradeço,
+
 Principalmente a Deus, por ter me fortalecido e permitido chegar até aqui
+
 A minha mãe e vó por me apoiarem em tudo o que faço
+
 Ao meu amigo Ernesto Lavorini Jr. por ter acreditado em mim e sempre estar presente
+
 A Rocketseat e todos instrutores, em especial o Diego Fernandes, por todo apoio que me deu durante toda esta jornada
+
 Ao meu professor e mentor Nilton Freitas Jr. que me incentivou meu ingresso no curso de Sistemas de Informação e que me acompanha dia a dia nessa jornada de desenvolvimento
 
 ---
 
 <p align="center"><img alt="Rocketseat" title="Rocketseat" src=".github/rocketseat.png" width="300px" /></p>
 
-<p align="center">Feito com 💜 by [luizfelipelaviola](https://www.linkedin.com/in/luizfelipelaviola/)</p>
+Feito com 💜 by [luizfelipelaviola](https://www.linkedin.com/in/luizfelipelaviola/)

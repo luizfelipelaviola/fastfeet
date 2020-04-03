@@ -39,8 +39,6 @@ class DeliveryProblemController {
           model: DeliveryProblem,
           as: 'problem',
           required: true,
-          limit: 1,
-          order: [['updated_at', 'DESC']],
         },
       ],
       offset: (page - 1) * perPage,
